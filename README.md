@@ -1,20 +1,29 @@
-# 👋 Olá, eu sou o Israel
+# Israel Marques
 
-💻 Base sólida em Linux e fundamentos de TI  
-📘 Aprendizado contínuo com foco em sistemas e infraestrutura  
-📌 Organizando estudos e projetos no GitHub  
+🎓 Técnico em Mecânica formado pelo IFAL – Campus Coruripe  
+💻 Interesse e atuação prática em Tecnologia da Informação  
+🐧 Usuário Linux (WSL), Git e GitHub  
+
+## Sobre mim
+Sou Técnico em Mecânica com forte interesse na área de TI. Tenho experiência com
+montagem e manutenção de computadores, instalação e atualização de sistemas
+operacionais e drivers, além de uso prático de Linux via WSL.
+
+Tenho perfil disciplinado, proativo e facilidade para aprender novas tecnologias,
+buscando crescimento profissional na área de tecnologia.
+
+## Conhecimentos
+- Linux (WSL)
+- Git & GitHub
+- Montagem e manutenção de computadores
+- Redes básicas
+- Sistemas operacionais (Windows e Linux)
+
+## Em aprendizado
+- Shell Script
+- Redes
+- Serviços Linux
 
 ---
+📫 GitHub: https://github.com/israelmarques27
 
-## 🧠 Conhecimentos em desenvolvimento
-- Linux (terminal, permissões, processos)
-- Rede básica (IP, portas e serviços)
-- Git e GitHub
-- Ambientes Linux via WSL
-
----
-
-## 🎯 Objetivo
-Aprofundar conhecimentos técnicos e ingressar futuramente em um curso superior na área de tecnologia.
-
-📍 Alagoas, Brasil
