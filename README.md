@@ -1,7 +1,7 @@
 # Israel Marques
 
 🎓 Técnico em Mecânica formado pelo IFAL – Campus Coruripe  
-💻 Interesse e atuação prática em Tecnologia da Informação  
+💻 Formação, interesse e atuação prática em Tecnologia da Informação  
 🐧 Usuário Linux (WSL), Git e GitHub  
 
 ## Sobre mim
