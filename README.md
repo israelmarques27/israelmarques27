@@ -13,7 +13,7 @@ Tenho perfil disciplinado, proativo e facilidade para aprender novas tecnologias
 buscando crescimento profissional na área de tecnologia.
 
 ## Conhecimentos
-- Linux (WSL)
+- Linux (WSL, Termux, UserLAnd)
 - Git & GitHub
 - Montagem e manutenção de computadores
 - Redes básicas
